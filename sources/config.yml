@@ -1,6 +1,6 @@
 sources:
-  - FugglesPro.glyphs
-familyName: "Fuggles Pro"
+  - Fuggles.glyphs
+familyName: "Fuggles"
 buildVariable: false
-autohintTTF: false
+# autohintTTF: false
 
